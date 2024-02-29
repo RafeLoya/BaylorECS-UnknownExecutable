@@ -5,3 +5,12 @@ A project that myself and another team member, Joseph Zuniga, worked on. Involve
 The original executables, a Windows and Mac version, are included in the zip file, ***DO NOT OPEN THEM!*** they still contain malicious code, they are only there for anyone that would like to look at the executables within a decompiler / disassembler!
 
 The executables that are NOT part of the .zip file are safe, and are simple programs that only read input / produce output from the command prompt.
+
+## Answers to Bomb Game
+Here are the answers to each level of the bomb puzzle (also included as .txt file):
+- Level 1: "Penland"
+- Level 2: 1 1 2 3 5 8 13 21 34 55
+- Level 3: 106 113 120 101 108 115 122 103 110 117
+- Level 4: Questions are randomly generated
+- Level 5: Utilize the binary search algorithm
+- Level 6: 1 through 100
