@@ -307,7 +307,6 @@ void enterNumbersGame(void) {
     puts("I\'m just wasting your time at this point...enter the numbers 1-100.\n");
     i = 1;
     endOfLoop = 100;
-    /*
     while (i != endOfLoop) {
         scanf("%d", &endOfLoop);
         if (i != endOfLoop) {
@@ -315,7 +314,6 @@ void enterNumbersGame(void) {
         }
         i = i + 1;
     }
-    */
     levelPassed(6);
     return;
 }
