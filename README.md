@@ -1,4 +1,4 @@
-# Reverse Engineering a cryptic executable
+# Reverse Engineering a Cryptic Executable
 A project that myself and another team member, Joseph Zuniga, worked on. Involved removing malicious code from an unknown executable using Ghidra, an open source reverse engineering tool developed by the NSA. We then created two separate executables: one that implemented it's original purpose, and another implementing the "game" from the malware, without any of the harmful effects.
 
 ## IMPORTANT!
